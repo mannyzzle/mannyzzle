@@ -1,9 +1,7 @@
+# <font color="#D2B48C">Hey there, I’m Enmanuel Hernandez! 👋✨</font>
 
-
-# Hey there, I’m Enmanuel Hernandez! 👋✨
-
-**Data Scientist | ML Engineer | Space‑Tech Enthusiast**  
-I combine **machine learning**, **software engineering**, and **creative problem-solving** to build data-driven solutions—from space management to data engineering solutions.
+<font color="#CD853F">**Data Scientist | ML Engineer | Space‑Tech Enthusiast**</font>  
+<font color="#DEB887">I combine **machine learning**, **software engineering**, and **creative problem‑solving** to build data‑driven solutions—from space management to data engineering solutions.</font>
 
 <p align="center">
   <img src="https://media.giphy.com/media/rytLWOErAX1F6/giphy.gif" width="900" alt="Space animation">
@@ -11,7 +9,7 @@ I combine **machine learning**, **software engineering**, and **creative problem
 
 ---
 
-## 🌌 Skills & Interests
+## <font color="#D2691E">🌌 Skills & Interests</font>
 
 ✨ Python | JavaScript | Java | SQL | R  
 ✨ NumPy | Pandas | Matplotlib | PyTorch | Scikit-Learn | PyMC  
@@ -24,19 +22,17 @@ I combine **machine learning**, **software engineering**, and **creative problem
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mannyzzle&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=mannyzzle&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
 </p>
-
 
 ---
 
-## 🤝 Contact
+## <font color="#CD853F">🤝 Contact</font>
 
-📧 [Enmah2001@gmail.com](mailto:Enmah2001@gmail.com)  
-🐙 [GitHub/mannyzzle](https://github.com/mannyzzle)  
-🌐 [mannyzzle.github.io/enmanuel-hernandez](https://mannyzzle.github.io/enmanuel-hernandez/)
-[LinkedIn](https://www.linkedin.com/in/enmanuel-hernandez-74937223a/)
+📧 <font color="#DEB887">[Enmah2001@gmail.com](mailto:Enmah2001@gmail.com)</font>  
+🐙 <font color="#DEB887">[GitHub/mannyzzle](https://github.com/mannyzzle)</font>  
+🌐 <font color="#DEB887">[mannyzzle.github.io/enmanuel-hernandez](https://mannyzzle.github.io/enmanuel-hernandez/)</font>  
+🔗 <font color="#DEB887">[LinkedIn](https://www.linkedin.com/in/enmanuel-hernandez-74937223a/)</font>
 
-> *Open to opportunities across data science, ML engineering, and broader software roles. Let’s create something amazing!* 
+> <font color="#D2B48C">Open to opportunities across data science, ML engineering, and broader software roles. Let’s create something amazing!</font>
 
-</div>
