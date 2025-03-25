@@ -5,6 +5,10 @@
 **Data Scientist | ML Engineer | Space‑Tech Enthusiast**  
 I combine **machine learning**, **software engineering**, and **creative problem-solving** to build data-driven solutions—from satellite tracking 🚀 to galaxy classification 🌌.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/rytLWOErAX1F6/giphy.gif" width="500" alt="Space animation">
+</p>
+
 ---
 
 ## 🌌 Skills & Interests
@@ -23,12 +27,6 @@ I combine **machine learning**, **software engineering**, and **creative problem
   <img src="https://github-readme-stats.vercel.app/api?username=mannyzzle&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/rytLWOErAX1F6/giphy.gif" width="500" alt="Space animation">
-</p>
-
-*(Credit: NASA/GIPHY — works on GitHub)*
 
 ---
 
