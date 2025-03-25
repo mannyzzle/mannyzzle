@@ -6,7 +6,7 @@
 I combine **machine learning**, **software engineering**, and **creative problem-solving** to build data-driven solutions—from space management to data engineering solutions.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/rytLWOErAX1F6/giphy.gif" width="500" alt="Space animation">
+  <img src="https://media.giphy.com/media/rytLWOErAX1F6/giphy.gif" width="700" alt="Space animation">
 </p>
 
 ---
