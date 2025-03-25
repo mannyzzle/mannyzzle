@@ -1,7 +1,7 @@
-# <font color="#D2B48C">Hey there, I’m Enmanuel Hernandez! 👋✨</font>
+# ![Hello Badge](https://img.shields.io/badge/Hey%20there%2C%20I’m%20Enmanuel%20Hernandez-👋✨-DEB887?style=for-the-badge)
 
-<font color="#CD853F">**Data Scientist | ML Engineer | Space‑Tech Enthusiast**</font>  
-<font color="#DEB887">I combine **machine learning**, **software engineering**, and **creative problem‑solving** to build data‑driven solutions—from space management to data engineering solutions.</font>
+**Data Scientist | ML Engineer | Space‑Tech Enthusiast**  
+I combine **machine learning**, **software engineering**, and **creative problem-solving** to build data-driven solutions—from space management to data engineering.
 
 <p align="center">
   <img src="https://media.giphy.com/media/rytLWOErAX1F6/giphy.gif" width="900" alt="Space animation">
@@ -9,7 +9,7 @@
 
 ---
 
-## <font color="#D2691E">🌌 Skills & Interests</font>
+## ![Skills Badge](https://img.shields.io/badge/🌌%20Skills%20&%20Interests-DEB887?style=for-the-badge)
 
 ✨ Python | JavaScript | Java | SQL | R  
 ✨ NumPy | Pandas | Matplotlib | PyTorch | Scikit-Learn | PyMC  
@@ -27,12 +27,8 @@
 
 ---
 
-## <font color="#CD853F">🤝 Contact</font>
+## ![Contact Badge](https://img.shields.io/badge/🤝%20Contact-DEB887?style=for-the-badge)
 
-📧 <font color="#DEB887">[Enmah2001@gmail.com](mailto:Enmah2001@gmail.com)</font>  
-🐙 <font color="#DEB887">[GitHub/mannyzzle](https://github.com/mannyzzle)</font>  
-🌐 <font color="#DEB887">[mannyzzle.github.io/enmanuel-hernandez](https://mannyzzle.github.io/enmanuel-hernandez/)</font>  
-🔗 <font color="#DEB887">[LinkedIn](https://www.linkedin.com/in/enmanuel-hernandez-74937223a/)</font>
+📧 [Enmah2001@gmail.com](mailto:Enmah2001@gmail.com) • 🐙 [GitHub/mannyzzle](https://github.com/mannyzzle) • 🌐 [mannyzzle.github.io/enmanuel-hernandez](https://mannyzzle.github.io/enmanuel-hernandez/) • 🔗 [LinkedIn](https://www.linkedin.com/in/enmanuel-hernandez-74937223a/)
 
-> <font color="#D2B48C">Open to opportunities across data science, ML engineering, and broader software roles. Let’s create something amazing!</font>
-
+> *Open to opportunities across data science, ML engineering, and broader software roles. Let’s create something amazing!*  
