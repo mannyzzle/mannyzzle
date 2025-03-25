@@ -14,10 +14,10 @@
 
 <div class="astro-border">
 
-# Hey there, I’m Enmanuel Hernandez! 👋
+# Hey there, I’m Enmanuel Hernandez! 👋✨
 
 **Data Scientist | ML Engineer | Space‑Tech Enthusiast**  
-I combine **machine learning**, **software engineering**, and **creative problem‑solving** to develop robust data‑driven solutions across fields—from satellite tracking to galaxy classification.
+I combine **machine learning**, **software engineering**, and **creative problem-solving** to build data-driven solutions—from satellite tracking 🚀 to galaxy classification 🌌.
 
 ---
 
@@ -30,6 +30,14 @@ I combine **machine learning**, **software engineering**, and **creative problem
 ✨ Linux | Windows | macOS  
 ✨ English | Spanish  
 ✨ Photography | Guitar | Rock Climbing | Painting
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mannyzzle&show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
 
 ---
 
@@ -49,6 +57,6 @@ I combine **machine learning**, **software engineering**, and **creative problem
 🐙 [GitHub/mannyzzle](https://github.com/mannyzzle)  
 🌐 [mannyzzle.github.io/enmanuel-hernandez](https://mannyzzle.github.io/enmanuel-hernandez/)
 
-> *Open to opportunities across data science, ML engineering, and broader software roles. Let’s create something amazing!*
+> *Open to opportunities across data science, ML engineering, and broader software roles. Let’s create something amazing!* 
 
 </div>
