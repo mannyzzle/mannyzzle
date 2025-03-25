@@ -2,7 +2,7 @@
 
 ![Role Badge](https://img.shields.io/badge/Data%20Scientist%20|%20ML%20Engineer%20|%20Space‑Tech%20Enthusiast-DEB887?style=for-the-badge)
 
-I combine **machine learning**, **software engineering**, and **creative problem-solving** to build data-driven solutions—from space management to data engineering solutions.
+![Desc Badge](https://img.shields.io/badge/I%20combine%20machine%20learning%2C%20software%20engineering%2C%20and%20creative%20problem-solving%20to%20build%20data-driven%20solutions—from%20space%20management%20to%20data%20engineering-DEB887?style=for-the-badge)
 
 <p align="center">
   <img src="https://media.giphy.com/media/rytLWOErAX1F6/giphy.gif" width="900" alt="Space animation">
@@ -36,5 +36,5 @@ I combine **machine learning**, **software engineering**, and **creative problem
 🌐 [mannyzzle.github.io/enmanuel-hernandez](https://mannyzzle.github.io/enmanuel-hernandez/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/enmanuel-hernandez-74937223a/)
 
-> *Open to opportunities across data science, ML engineering, and broader software roles. Let’s create something amazing!*
+> *Open to opportunities across data science, ML engineering, and broader software roles. Let’s create something amazing!*  
 
