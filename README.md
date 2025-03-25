@@ -1,18 +1,8 @@
-<!-- Starry animated border -->
-<style>
-  .astro-border {
-    padding: 2rem;
-    border: 5px solid transparent;
-    border-image: url('https://i.imgur.com/xS4rCZr.png') 30 round;
-    animation: rotateBorder 20s linear infinite;
-  }
-  @keyframes rotateBorder {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
-  }
-</style>
+<!-- 🚀 Galaxy “background” banner -->
+<p align="center">
+  <img src="./galaxy.jpeg" alt="Galaxy Background" width="100%" />
+</p>
 
-<div class="astro-border">
 
 # Hey there, I’m Enmanuel Hernandez! 👋✨
 
