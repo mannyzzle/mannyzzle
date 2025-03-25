@@ -1,7 +1,3 @@
-<!-- 🚀 Galaxy “background” banner -->
-<p align="center">
-  <img src="./galaxy.jpeg" alt="Galaxy Background" width="100%" />
-</p>
 
 
 # Hey there, I’m Enmanuel Hernandez! 👋✨
@@ -23,15 +19,10 @@ I combine **machine learning**, **software engineering**, and **creative problem
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mannyzzle&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
 
----
-
-## 🌠 Space Animation (For Fun!)
 
 <p align="center">
   <img src="https://media.giphy.com/media/rytLWOErAX1F6/giphy.gif" width="500" alt="Space animation">
