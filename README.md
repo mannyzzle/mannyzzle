@@ -1,6 +1,6 @@
 # ![Hello Badge](https://img.shields.io/badge/Hey%20there%2C%20I’m%20Enmanuel%20Hernandez-👋✨-DEB887?style=for-the-badge)
 
-![Role Badge](https://img.shields.io/badge/Data%20Scientist%20|%20ML%20Engineer%20|%20Space‑Tech%20Enthusiast-DEB887?style=for-the-badge)
+![Role Badge](https://img.shields.io/badge/Data%20Scientist%20|%20Space%20Enthusiast-DEB887?style=for-the-badge)
 
 I combine **machine learning**, **software engineering**, and **creative problem-solving** to build data-driven solutions—from space management to data engineering solutions.
 
@@ -13,9 +13,9 @@ I combine **machine learning**, **software engineering**, and **creative problem
 ## ![Skills Badge](https://img.shields.io/badge/🌌%20Skills%20&%20Interests-DEB887?style=for-the-badge)
 
 ✨ Python | JavaScript | Java | SQL | R  
-✨ NumPy | Pandas | Matplotlib | PyTorch | Scikit-Learn | PyMC  
-✨ AWS (S3, SageMaker, Lambda) | Docker | Node.js  
-✨ PostgreSQL | MongoDB | DynamoDB  
+✨ NumPy | Pandas | Matplotlib | PyTorch | Scikit | PyMC | Apache Spark | Qiskit
+✨ AWS | Docker | Node.js | React | Databricks
+✨ PostgreSQL | MongoDB | MySQL  
 ✨ Linux | Windows | macOS  
 ✨ English | Spanish  
 ✨ Photography | Guitar | Rock Climbing | Painting
