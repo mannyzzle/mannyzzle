@@ -2,7 +2,7 @@
 
 ![Role Badge](https://img.shields.io/badge/Data%20Scientist%20|%20Space%20Enthusiast-DEB887?style=for-the-badge)
 
-I combine **machine learning**, **software engineering**, and **creative problem-solving** to build data-driven solutions—from space management to data engineering solutions.
+I combine **machine learning**, **data engineering**, and **creative problem-solving** to build data-driven solutions.
 
 <p align="center">
   <img src="https://media.giphy.com/media/rytLWOErAX1F6/giphy.gif" width="900" alt="Space animation">
@@ -12,7 +12,7 @@ I combine **machine learning**, **software engineering**, and **creative problem
 
 ## ![Skills Badge](https://img.shields.io/badge/🌌%20Skills%20&%20Interests-DEB887?style=for-the-badge)
 
-✨ Python | JavaScript | Java | SQL | R  
+✨ Python | JavaScript | Java | SQL | R | C++  
 ✨ NumPy | Pandas | Matplotlib | PyTorch | Scikit | PyMC | Apache Spark | Qiskit
 ✨ AWS | Docker | Node.js | React | Databricks
 ✨ PostgreSQL | MongoDB | MySQL  
