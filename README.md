@@ -27,7 +27,10 @@ I combine **machine learning**, **data engineering**, and **creative problem-sol
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannyzzle&layout=compact&hide_border=true&bg_color=0d1117&text_color=DEB887&title_color=DEB887" alt="Top Languages"/>
 </p>
 
-
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Mannyzzle/30-nites-of-code)  
+  ![@Mannyzzle #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Mannyzzle)
+  
 ---
 
 ## ![Contact Badge](https://img.shields.io/badge/🤝%20Contact-DEB887?style=for-the-badge)
