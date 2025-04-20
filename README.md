@@ -122,9 +122,14 @@ I combine **machine learning**, **data engineering**, and **creative problem-sol
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/mannyzzle/mannyzzle/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/mannyzzle/mannyzzle/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/mannyzzle/mannyzzle/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/mannyzzle/mannyzzle/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation"
+       src="https://raw.githubusercontent.com/mannyzzle/mannyzzle/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
