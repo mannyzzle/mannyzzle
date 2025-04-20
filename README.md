@@ -23,10 +23,10 @@ I combine **machine learning**, **data engineering**, and **creative problem-sol
 </p>
 
 ## #30NitesOfCode:
-<p align="center">
+
   [Check out my progress!](https://www.codedex.io/@Mannyzzle/30-nites-of-code)  
   ![@Mannyzzle #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Mannyzzle)
-</p>
+
 
 ## ![Contact Badge](https://img.shields.io/badge/🤝%20Contact-DEB887?style=for-the-badge)
 
