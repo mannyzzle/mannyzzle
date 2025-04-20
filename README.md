@@ -1,4 +1,4 @@
-# ![Hello Badge](https://img.shields.io/badge/Hey%20there%2C%20I’m%20Enmanuel%20Hernandez-👋✨-DEB887?style=for-the-badge)
+# ![Hello Badge](https://img.shields.io/badge/Hey%20there%2C%20I’m%20Enmanuel%20Hernandez--DEB887?style=for-the-badge)
 
 ![Role Badge](https://img.shields.io/badge/Data%20Scientist%20|%20Space%20Enthusiast-DEB887?style=for-the-badge)
 
@@ -28,7 +28,7 @@ I combine **machine learning**, **data engineering**, and **creative problem-sol
   ![@Mannyzzle #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Mannyzzle)
 
 
-## ![Contact Badge](https://img.shields.io/badge/🤝%20Contact-DEB887?style=for-the-badge)
+## ![Contact Badge](https://img.shields.io/badge/%20Contact-DEB887?style=for-the-badge)
 
 📧 [Enmah2001@gmail.com](mailto:Enmah2001@gmail.com)  
 🐙 [GitHub/mannyzzle](https://github.com/mannyzzle)  
