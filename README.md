@@ -27,7 +27,7 @@ I combine **machine learning**, **data engineering**, and **creative problem-sol
   ![@Mannyzzle #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Mannyzzle)
 
   <p align="right">
-  <img src="https://media.giphy.com/media/rytLWOErAX1F6/giphy.gif" width="300" alt="Space animation">
+  <img src="https://media.giphy.com/media/rytLWOErAX1F6/giphy.gif" width="600" alt="Space animation">
 </p>
 
 ---
