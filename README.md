@@ -26,11 +26,6 @@ I combine **machine learning**, **data engineering**, and **creative problem-sol
   [Check out my progress!](https://www.codedex.io/@Mannyzzle/30-nites-of-code)  
   ![@Mannyzzle #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Mannyzzle)
 
-  <p align="right">
-  <img src="https://media.giphy.com/media/rytLWOErAX1F6/giphy.gif" width="600" alt="Space animation">
-</p>
-
----
 
 ## ![Contact Badge](https://img.shields.io/badge/🤝%20Contact-DEB887?style=for-the-badge)
 
