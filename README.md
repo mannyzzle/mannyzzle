@@ -64,9 +64,6 @@ I combine **machine learning**, **data engineering**, and **creative problem-sol
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/>
-  </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
   </a>
@@ -108,9 +105,6 @@ I combine **machine learning**, **data engineering**, and **creative problem-sol
   <!-- Quantum & Scientific Tools -->
   <a href="https://qiskit.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Qiskit_logo.svg" alt="Qiskit" width="40" height="40"/>
-  </a>
-  <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/D/databricks-logo-DA1B94013B-seeklogo.com.png" alt="Databricks" width="40" height="40"/>
   </a>
 
   <!-- Creative Tools -->
