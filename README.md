@@ -5,7 +5,7 @@
 I combine **machine learning**, **data engineering**, and **creative problem-solving** to build data-driven solutions.
 ---
 
-## ![Skills Badge](https://img.shields.io/badge/🌌%20Skills%20&%20Interests-DEB887?style=for-the-badge)
+## ![Skills Badge](https://img.shields.io/badge/%20Skills%20&%20Interests-DEB887?style=for-the-badge)
 
 ✨ Python | JavaScript | Java | SQL | R | C++  
 ✨ NumPy | Pandas | Matplotlib | PyTorch | Scikit | PyMC | Apache Spark | Qiskit
