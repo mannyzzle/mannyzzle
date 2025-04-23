@@ -156,7 +156,7 @@ I combine **machine learning**, **data engineering**, and **creative problem-sol
 
 ## ![Contact Badge](https://img.shields.io/badge/%20Contact-DEB887?style=for-the-badge)
 
-📧 [Enmah2001@gmail.com](mailto:ucb.datascientist@gmail.com)  
+📧 [datascientist@gmail.com](mailto:ucb.datascientist@gmail.com)  
 🐙 [GitHub/mannyzzle](https://github.com/mannyzzle)  
 🌐 [mannyzzle.github.io/enmanuel-hernandez](https://mannyzzle.github.io/enmanuel-hernandez/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/enmanuel-hernandez-74937223a/)
