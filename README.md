@@ -1,6 +1,6 @@
 # ![Hello Badge](https://img.shields.io/badge/Hey%20there%2C%20I’m%20Enmanuel%20Hernandez--DEB887?style=for-the-badge)
 
-![Role Badge](https://img.shields.io/badge/Data%20Scientist%20|%20Software%20Engineer-DEB887?style=for-the-badge)
+![Role Badge](https://img.shields.io/badge/Data%20Science%20X%20Software%20Engineering-DEB887?style=for-the-badge)
 
 I combine **predictive modeling**, **engineering/analysis**, and **creative problem-solving** to build data-driven solutions.
 ---
