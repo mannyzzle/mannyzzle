@@ -2,7 +2,7 @@
 
 ![Role Badge](https://img.shields.io/badge/Data%20Science%20X%20Software%20Engineering-DEB887?style=for-the-badge)
 
-I combine **predictive modeling**, **engineering/analysis**, and **creative problem-solving** to build data-driven solutions.
+I combine **predictive modeling, software, data analysis and **creative problem-solving** to build data-driven solutions.
 ---
 
 ## ![Skills Badge](https://img.shields.io/badge/%20Skills%20&%20Interests-DEB887?style=for-the-badge)
