@@ -7,15 +7,6 @@ I combine **predictive modeling**, software, data analysis and **creative proble
 
 ## ![Skills Badge](https://img.shields.io/badge/%20Skills%20&%20Interests-DEB887?style=for-the-badge)
 
-✨ Python | JavaScript | Java | SQL | R | C++  
-✨ NumPy | Pandas | Matplotlib | PyTorch | Scikit | PyMC | Apache Spark | Qiskit
-✨ AWS | Docker | Node.js | React | Databricks
-✨ PostgreSQL | MongoDB | MySQL  
-✨ Linux | Windows | macOS  
-✨ English | Spanish  
-✨ Photography | Guitar | Rock Climbing | Painting
-
----
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Languages and Tools:</h2>
 <p align="left">
