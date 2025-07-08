@@ -139,7 +139,7 @@ hi, i’m enmanuel — uc berkeley grad in data science & astrophysics. i work o
 
 ## #30NitesOfCode:
 
-  [Check out my progress!](https://www.codedex.io/@Mannyzzle/30-nites-of-code)  
+  [Check out my progress](https://www.codedex.io/@Mannyzzle/30-nites-of-code)  
   ![@Mannyzzle #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Mannyzzle)
 
 
