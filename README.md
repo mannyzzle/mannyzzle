@@ -145,11 +145,6 @@ hi, i’m enmanuel — uc berkeley grad in data science & astrophysics. i work o
 
 ## ![Contact Badge](https://img.shields.io/badge/%20Contact-DEB887?style=for-the-badge)
 
-📧 [ucb.datascientist@gmail.com](mailto:ucb.datascientist@gmail.com)  
-🐙 [GitHub/mannyzzle](https://github.com/mannyzzle)  
-🌐 [mannyzzle.github.io/enmanuel-hernandez](https://mannyzzle.github.io/enmanuel-hernandez/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/enmanuel-hernandez-74937223a/)
 
-> *Open to opportunities across data science, ML engineering, and broader software roles. Let’s create something amazing!*
 
 
