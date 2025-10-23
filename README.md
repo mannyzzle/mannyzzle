@@ -2,7 +2,7 @@
 
 ![Role Badge](https://img.shields.io/badge/Data%20Science%20X%20Software%20Engineering-DEB887?style=for-the-badge)
 
-hi, i’m enmanuel — uc berkeley grad in data science & astrophysics. i work on backend systems that blend AI, scientific computing, cloud infra, and sometimes quantum tech (because why not)
+hi, i’m enmanuel — uc berkeley grad in data science & astrophysics. i work on backend systems that blend AI, scientific computing, cloud infra, and computer vision
 
 ---
 
