@@ -124,7 +124,7 @@ hi, i’m enmanuel — uc berkeley grad in data science & astrophysics. i work o
 
 <img align="right" alt="Coding" width="320" src="https://github.com/mannyzzle/mannyzzle/blob/resources/media/Cat-animation.gif">
 
-[![Manny's github stats](https://bad-apple-github-readme.vercel.app/api?username=mannyzzle&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)  
+<!--[![Manny's github stats](https://bad-apple-github-readme.vercel.app/api?username=mannyzzle&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)--> 
 [![Manny's current streak](https://streak-stats.demolab.com/?user=mannyzzle&count_private=true&theme=blue-green&title_color=00b3ff)](#)  
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=mannyzzle&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
