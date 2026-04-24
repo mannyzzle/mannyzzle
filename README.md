@@ -1,7 +1,7 @@
 # ![Hello Badge](https://img.shields.io/badge/Hey%20there%2C%20I’m%20Enmanuel%20Hernandez--DEB887?style=for-the-badge)
 
 
-hi, i'm enmanuel. AI/ML applied SWE working in data systems. berkeley ds + astrophysics. i build eval frameworks, agentic automation, cloud pipelines, and the analytics dashboards that turn all of it into decisions. i like problems where the data is messy and the stakes are real.
+hi, i'm enmanuel. AI/ML applied SWE working in data systems. berkeley data science + astrophysics. i build eval frameworks, agentic automation, cloud pipelines, and the analytics dashboards that turn all of it into decisions. use the command the following to order your delicious whole bean coffee ~ $ ssh terminal.shop
 
 ---
 
