@@ -1,8 +1,7 @@
 # ![Hello Badge](https://img.shields.io/badge/Hey%20there%2C%20I’m%20Enmanuel%20Hernandez--DEB887?style=for-the-badge)
 
-![Role Badge](https://img.shields.io/badge/Data%20Science%20X%20Software%20Engineering-DEB887?style=for-the-badge)
 
-hi, i’m enmanuel — uc berkeley grad in data science & astrophysics. i build backend systems that blend AI, scientific computing, cloud infra, and computer vision.
+hi, i'm enmanuel. AI/ML applied SWE working in data systems. berkeley ds + astrophysics. i build eval frameworks, agentic automation, cloud pipelines, and the analytics dashboards that turn all of it into decisions. i like problems where the data is messy and the stakes are real.
 
 ---
 
